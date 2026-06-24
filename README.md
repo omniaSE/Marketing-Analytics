@@ -105,11 +105,11 @@ Created an interactive dashboard to analyze:
 
 ### Social Media Details
 
-![Social Media Details](images/social_media_details.png)
+![Social Media Details](images/social_media_detailes.png)
 
 ### Customer Review Details
 
-![Customer Review Details](images/customer_review_details.png)
+![Customer Review Details](images/customer_review_detailes.png)
 
 ## Repository Structure
 
