@@ -117,7 +117,7 @@ Created an interactive dashboard to analyze:
 Marketing-Analytics/
 │
 ├── dashboards/
-│   └── fact_customer_reviews_with_sentiment.csv
+│   └── Dashboard.pbix
 ├── data/
 │   └── fact_customer_reviews_with_sentiment.csv
 │
@@ -128,7 +128,7 @@ Marketing-Analytics/
 │   └── customer_review_details.png
 │
 ├── notebooks/
-│   └── Customer_shopping_behavier.csv
+│   └── Customer_shopping_behavier.ipynb
 ├── sql/
 │    ├── customer_journey.sql
 |    ├── dim-products.sql
